@@ -24,7 +24,7 @@
           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
         <td>
-          <img src="[[[https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp](https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg)](https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg)](https://assets.zabbix.com/img/logo/zabbix_logo_use.svg)" width="52" alt="Zabbix logo" />
+          <img src="[[[[https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp](https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg)](https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg)](https://assets.zabbix.com/img/logo/zabbix_logo_use.svg)](https://raw.githubusercontent.com/zabbix/zabbix/master/misc/images/docs/zabbix_logo.svg)" width="52" alt="Zabbix logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
         </td>
     </tr>
