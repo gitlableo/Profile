@@ -46,8 +46,8 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
     </tr>
         <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backup:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=veeam,windows server backup, cobian"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">OS:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux,ubuntu,redhat,raspberry"/></td>
     </tr>
 </table>
 <br>
