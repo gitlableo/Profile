@@ -3,7 +3,7 @@
 
   <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=100&size=20&color=f5f5f5&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Zabbix+and+Powershell+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=1000&size=20&color=f5f5f5&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Zabbix+and+Powershell+Developer.">
 </p>
 
   <!-- Profile Picture -->
