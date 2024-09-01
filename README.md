@@ -23,7 +23,7 @@
 <table>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Monitoring Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=grafana"/> <img src="https://github.com/gitlableo/Profile/blob/main/zabbix_logo.svg" width=100 alt="zbx Logo"/></td> 
+        <td><img src="https://github.com/gitlableo/Profile/blob/main/zabbix_logo.svg" width=100 alt="zbx Logo"/>  <img height="40" src="https://skillicons.dev/icons?i=grafana"/></td> 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
