@@ -35,7 +35,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,ansible,gcp,aws,azure,vscode,grafana"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,gcp,aws,azure,vscode"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -44,6 +44,10 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
+    </tr>
+        <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backup:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=veeam,windows server backup, cobian"/></td>
     </tr>
 </table>
 <br>
