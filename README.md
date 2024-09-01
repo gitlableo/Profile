@@ -23,7 +23,7 @@
           <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
         </td>
         <td>
-          <img src="https://github.com/gitlableo/Profile/blob/main/zabbix_logo.svg" width="80" alt="Zabbix logo" />
+          <img src="https://github.com/gitlableo/Profile/blob/main/zabbix_logo.svg" width="120" alt="Zabbix logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
         </td>
     </tr>
