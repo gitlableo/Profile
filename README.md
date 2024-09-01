@@ -21,7 +21,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=ps,py,apache,php,bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=ps,py,php,bash"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -41,7 +41,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=grafana"/></td> <img src="https://github.com/gitlableo/Profile/blob/main/PowerShell.svg" alt="PowerShell Logo" />
+        <td><img height="40" src="https://skillicons.dev/icons?i=grafana"/></td> <img src="https://github.com/gitlableo/Profile/blob/main/zabbix_logo.svg" alt="zbx Logo" />
       
     </tr>
 </table>
