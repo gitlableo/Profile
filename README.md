@@ -24,7 +24,7 @@
         </td>
         <td>
           <img src="https://github.com/gitlableo/Profile/blob/main/zabbix_logo.svg" width="120" alt="Zabbix logo" />
-          <img src="https://github.com/gitlableo/Profile/blob/main/Powershell.svg" width="50" alt="MySQL logo" />
+          <img src="https://github.com/gitlableo/Profile/blob/main/PowerShell.svg" width="80" alt="PS logo" />
         </td>
     </tr>
     <tr>
