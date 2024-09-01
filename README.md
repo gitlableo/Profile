@@ -21,6 +21,10 @@
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
+      <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Monitoring Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=grafana"/> <img src="https://github.com/gitlableo/Profile/blob/main/zabbix_logo.svg" width=100 alt="zbx Logo"/></td> 
+    </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=ps,py,php,bash"/></td>
@@ -40,10 +44,6 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=grafana"/><img src="https://github.com/gitlableo/Profile/blob/main/zabbix_logo.svg" width=50 alt="zbx Logo"/></td> 
     </tr>
 </table>
 <br>
