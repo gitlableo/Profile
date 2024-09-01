@@ -12,8 +12,7 @@
   <!-- Description -->
 ```diff
 🛠️ +3 years of professional experience with Zabbix.
-+   Focus in Powershell Scripting.
-#   👨‍💻 Network Technician.
++   👨‍💻 Focus on automating process with Powershell and Python Scripting.
 ```
 
 
