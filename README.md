@@ -7,13 +7,25 @@
 </p>
 
   <!-- Profile Picture -->
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
+<img align="left" height="120" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"/>
 
   <!-- Description -->
 ```diff
 🛠️ +3 years of professional experience with Zabbix.
 +   👨‍💻 Focus on automating process with Powershell and Python Scripting.
 ```
+
+<!--Intro start-->
+- 🔭 I’m currently working on **Zabbix, Powershell, Veeam**
+
+- 🌱 I’m currently learning **English, Zabbix on 7.0 and about Veeam Backups**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 💬 Ask me about **Zabbix Templates and Grafana Dashboards**
+
+- 📫 Feel free to reach me out **leo96soares@gmail.com**
+<!--Intro end-->
 
 
 
@@ -50,3 +62,19 @@
     </tr>
 </table>
 <br>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/leonardo-soares-dos-santos-b85151107/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/soares.bkp/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/328283730496192514" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
